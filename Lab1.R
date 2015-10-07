@@ -33,7 +33,7 @@ plot2 <- sm.regression(state.x77[,"Income"], state.x77[,"Murder"],
                        model = "linear",
                        col = "red")
 
-
+####
 
 
 
